@@ -1,3 +1,5 @@
+![](Docs/UNEDA.png)
+
 UNEDA is an open-source platform on which decision-analytic software can be built. In its basic form, it can handle methods that conform to classic probability and utility theory, but it can easily be extended to work with any method compatible with additive utilities. UNEDA brings the following features to any implementation:
 
 +	Multiple criteria and probabilistic decisions handled uniformly

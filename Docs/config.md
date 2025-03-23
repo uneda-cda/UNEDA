@@ -12,4 +12,4 @@ In DTL/SML:
 In CAR:
 + CARrank.c
 
-For historical reasons, TCL is a separate library. It was developed before the others and was for a while the only existing platform.
+For historical reasons, TCL is a separate library. It was developed before the others and was for a while the only existing platform. In modern times, all of those libraries can be linked together into one piece, forming a .dll (Win) or .so (Linux) for easy use by apps.

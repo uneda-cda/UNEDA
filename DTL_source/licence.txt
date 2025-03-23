@@ -1,1 +1,33 @@
+ *
+ *        _/       _/   _/       _/    _/_/_/_/_/   _/_/_/          _/
+ *       _/       _/   _/_/     _/    _/           _/    _/       _/  _/
+ *      _/       _/   _/ _/    _/    _/           _/      _/    _/    _/
+ *     _/       _/   _/  _/   _/    _/_/_/_/     _/      _/   _/      _/ 
+ *    _/       _/   _/   _/  _/    _/           _/      _/   _/_/_/_/_/  
+ *   _/       _/   _/    _/ _/    _/           _/      _/   _/      _/          
+ *   _/     _/    _/     _/_/    _/           _/     _/    _/      _/          
+ *    _/_/_/     _/       _/    _/_/_/_/_/   _/_/_/_/     _/      _/   
+ *
+ *
+ *   UNEDA - The Universal Engine for Decision Analysis
+ *
+ *   Website: https://people.dsv.su.se/~mad/UNEDA
+ *   GitHub:  https://github.com/uneda-cda/UNEDA
+ *
+ *   Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/.
+ *   Provided "as is", without warranty of any kind, express or implied.
+ *   Reuse and modifications are encouraged, with proper attribution.
+ *
+ *
+ *    +----- o o o -----------------------------------------------+
+ *    |    o       o             Prof. Mats Danielson             |
+ *    |   o  STHLM  o            DECIDE Research Group            |
+ *    |   o         o   Dept. of Computer and Systems Sciences    |
+ *    |   o   UNI   o            Stockholm University             |
+ *    |    o       o     PO Box 1203, SE-164 25 Kista, SWEDEN     |
+ *    +----- o o o -----------------------------------------------+
+ *
+ *                Copyright (c) 2012-2025 Mats Danielson
+ *                     Email: mats.danielson@su.se
+ *
 

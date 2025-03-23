@@ -1,4 +1,4 @@
-![](UNEDA stack.png)
+![](UNEDA%20stack.png)
 
 The following files should not be primary targets in a makefile. Instead, they are included as part of the compile/link process. This is done for scoping reasons. Variables and code can have different scope. Apart from the traditional within block, within module and global, there is shared between a few modules via #include-ing the second (dependent) file from the first one.
 

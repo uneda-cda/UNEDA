@@ -6,7 +6,7 @@ UNEDA is an open-source platform on which decision-analytic software can be buil
 +	Multiple decision rules in accordance with utility theory
 +	Several types of sensitivity analyses
 
-UNEDA was developed between 1994 and 2025, first at the Royal Institute of Technology and later at Stockholm University. The first implementations were instances of the framework described in the PhD thesis _Computational Decision Analysis_.  The thesis framework was subsequently extended to handle decision trees of arbitrary depth rather than only a single level (hence the ‘T’ in the layer acronyms) and extended to handle multiple criteria rather than only a single criterion.
+UNEDA was developed between 1994 and 2025, first at the Royal Institute of Technology and later at Stockholm University. The first implementations were instances of the framework described in the PhD thesis _Computational Decision Analysis_.  The thesis framework was subsequently extended to handle decision trees of arbitrary depth rather than only a single level (hence the ‘**T**’ in the layer acronyms) and extended to handle multiple criteria rather than only a single criterion.
 
 Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/.
 Provided "as is", without warranty of any kind, express or implied.

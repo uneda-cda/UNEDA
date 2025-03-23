@@ -11,4 +11,4 @@
    Provided "as is", without warranty of any kind, express or implied.
    Reuse and modifications are encouraged, with proper attribution.
 
-UCT is the UNEDA core tester, an app which can be used to check that the core calculation functions are working as intended. It also allows files to be written for later use by the DTL layer. This way, cross-testing is possible.
+UCT is the UNEDA Core Tester, an app which can be used to check that the core calculation functions are working as intended. It also allows files to be written for later use by the DTL layer. This way, cross-testing is possible.

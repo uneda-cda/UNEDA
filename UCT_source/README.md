@@ -1,4 +1,4 @@
-![](../Docs/UNEDA.PNG)
+![](../Docs/UNEDA.png)
  *
  *   UNEDA - The Universal Engine for Decision Analysis
  *

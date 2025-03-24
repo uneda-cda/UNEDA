@@ -10,6 +10,8 @@ UNEDA is an open-source platform on which decision-analytic software can be buil
 
 UNEDA was developed between 1994 and 2025, first at the Royal Institute of Technology and later at Stockholm University. The first implementations were instances of the framework described in the PhD thesis _Computational Decision Analysis_.  The thesis framework was subsequently extended to handle decision trees of arbitrary depth rather than only a single level (hence the ‘**T**’ in the layer acronyms) and extended to handle multiple criteria rather than only a single criterion.
 
+Several applications, both single- and multi-criteria, have been built based on UNEDA. These are research as well as commercial applications, some of them proprietary. This is an example of a non-proprietary research application: https://mediate-project.eu/.
+
 Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/.
 Provided "as is", without warranty of any kind, express or implied.
 Reuse and modifications are encouraged, with proper attribution.

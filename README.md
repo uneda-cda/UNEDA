@@ -16,4 +16,5 @@ Licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/.
 Provided "as is", without warranty of any kind, express or implied.
 Reuse and modifications are encouraged, with proper attribution.
 
-Read more on the UNEDA website: https://people.dsv.su.se/~mad/UNEDA
+Read more on the UNEDA webpage: https://people.dsv.su.se/~mad/UNEDA
+Read more of the theoretical background: https://people.dsv.su.se/~mad/Foundations_of_Computational_Decision_Analysis_(ebook)_Sine_Metu.pdf

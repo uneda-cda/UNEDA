@@ -3,6 +3,7 @@ message: "If you use this software, please cite it using the following metadata 
 authors:
   - family-names: Danielson
     given-names: Mats
+    orcid: "https://orcid.org/0000-0001-6502-9670"
 title: "UNEDA"
 version: "7.21.1"
 date-released: 2025-06-06

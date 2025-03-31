@@ -17,3 +17,5 @@ Provided "as is", without warranty of any kind, express or implied.
 Reuse and modifications are encouraged, with proper attribution.
 
 Read more on the UNEDA webpage: https://people.dsv.su.se/~mad/UNEDA
+
+![](Docs/zenodo.15114623.svg)

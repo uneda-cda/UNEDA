@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata AND follow the attribution rules of CC BY 4.0."
+authors:
+  - family-names: Danielson
+    given-names: Mats
+title: "UNEDA"
+version: "7.21.1"
+date-released: 2025-06-06
+doi: "10.5281/zenodo.15114623"

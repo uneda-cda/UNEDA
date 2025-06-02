@@ -305,7 +305,6 @@ rcode DTLAPI ucall(rcode func) {
   *  Init modes: 0 = V-base values are human generated
   *                  (default value base behaviour)
   *              1 = V-base values are machine generated
-  *                  (also compatible with old DMC)
   *             +2 = activate error exit tests
   *
   ********************************************************/
@@ -1463,7 +1462,7 @@ rcode DTLAPI SML_daisy_chain(int crit, ai_col daisy_rank, ar_col daisy_value) {
 	}
 
 
-#define PIE_MODE 1 // modern (not compat with old DMC)
+#define PIE_MODE 1 // modern
 
 rcode DTLAPI SML_pie_chart2(int crit, double moderation, ar_col pie_value) {
 	int n_alts;

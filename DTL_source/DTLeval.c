@@ -1620,8 +1620,7 @@ rcode DTLAPI DTL_get_aversion_value(int crit, double risk_aversion, double *ra_v
   **********************************************************/
 
 	/* Obtain DTL evaluation cache moments as calculated in this module.
-	 * Undocumented - only for debugging.
-	 * NOTE: different prerequisites if moved to DMC, should be checked. */
+	 * Undocumented - only for debugging. */
 
 rcode DTLAPI DTI_get_mass_moments(int crit, double *rm1, double *cm2, double *cm3) {
 
@@ -2426,7 +2425,7 @@ rcode DTLAPI DTL_pie_chart2(int crit, int mode, double moderation1, double moder
 
 
 /* The original (classic) calls - for compatibility and simplicity.
- * DTL_pie_chart:  no parameters + compat with changed DMC (for ZOR batch)
+ * DTL_pie_chart:  no parameters
  * DTL_pie_chart1: one combined moderation parameter
  *  Positive moderation modifies the daisy chain itself as a basis for the chart.
  *  Negative moderation modifies the starting point (anchor) of the pie chart. */

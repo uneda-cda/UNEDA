@@ -623,8 +623,8 @@ static rcode write_ufile(char *fn, char *folder) {
 	if (!fp)
 		return DTL_FILE_UNKNOWN;
 
-	/* User frame header (note: DTL_MAIN bumped by 7 to be compat with DMC tests) */
-	fprintf(fp,"%d.%02d\n",DTL_MAIN+7,DTL_FUNC);
+	/* User frame header */
+	fprintf(fp,"%d.%02d\n",DTL_MAIN,DTL_FUNC);
 	strcpy(frn,uf->frame_name);
 	nospace(frn);
 	fprintf(fp,"%s\n",frn);

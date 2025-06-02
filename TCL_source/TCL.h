@@ -102,7 +102,7 @@ typedef char c_col[MAX_ROWS+1];
 typedef double a_row[MAX_ALTS+1];
 typedef char c_row[MAX_NODES+1];
 typedef double a_vector[MAX_ALTS+1];
-typedef a_vector a_result[MAX_ERESULT+1];
+typedef double a_result[MAX_ALTS+1][MAX_ERESULT+1];
 typedef int i_row[MAX_NODES+1];
 typedef int tn_row[MAX_NODES+1];
 typedef int t_row[MAX_NOPA+1];

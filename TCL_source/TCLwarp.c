@@ -206,8 +206,8 @@ static void adjust_vx(int alt, int snode, double lofrac) {
 	/* Initialise invariants */
 	s_count = 0;
 	f1_T(0.0,target,0,last,sd_path,active);
-	if (!s_count)
-		/* No path */
+	if (!s_count || s_count>=VX_MAXVER)
+		/* No or too long path */
 		return;
 	sum2 = ijar_warp_sum2();
 #ifdef TDL_COMPAT
